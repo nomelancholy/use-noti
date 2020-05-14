@@ -1,0 +1,25 @@
+{
+  "name": "use-noti",
+  "version": "1.0.0",
+  "description": "React hook to send the notification",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nomelancholy/use-noti.git"
+  },
+  "keywords": [
+    "react",
+    "react",
+    "hooks",
+    "notification"
+  ],
+  "author": "Take Knowledge <starmekey@naver.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nomelancholy/use-noti/issues"
+  },
+  "homepage": "https://github.com/nomelancholy/use-noti#readme"
+}
