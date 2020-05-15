@@ -27,3 +27,7 @@ function App() {
 
 export default App;
 ```
+
+### Demo
+
+[use-noti demo page](https://nomelancholy.github.io/use-noti-demo/)
